@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="redirect_label">Minimal Home button</string>
+    <string name="redirect_desc">Opens Minimal when the Home button shows realme\'s launcher. Handles only the Home button and which screen the realme launcher shows; no typing or other content is read or stored.</string>
+</resources>
